@@ -2,6 +2,9 @@
 
 contains input folder:
   The input txt is give with 9x9 array seperated with space for col values and next line for next row
+  
+  
+  
   eg:
     5 3 0 0 7 0 0 0 0
     6 0 0 1 9 5 0 0 0 
@@ -12,6 +15,9 @@ contains input folder:
     0 6 0 0 0 0 2 8 0
     0 0 0 4 1 9 0 0 5
     0 0 0 0 8 0 0 7 9
+    
+    
+    
 Run porj1.py file for solving the puzzle and the o/p is written to output folder
   eg:
   Time taken to solve is: 0.10469198226928711
